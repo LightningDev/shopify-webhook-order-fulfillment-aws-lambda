@@ -1,1 +1,1 @@
-# shopify-webhook-order-fulfillment-aws-lambda
+# Shopify webhook for order fulfillment using AWS Lambda
